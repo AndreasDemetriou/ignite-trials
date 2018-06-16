@@ -44,7 +44,7 @@ public class Trial3 extends AbstractTrial {
             // Правки можно вносить от этой линии
 
 
-            // До этой
+
         });
     }
 }

@@ -42,8 +42,8 @@ public class Trial1 extends AbstractTrial {
             // Использование reflection запрещено
 
             // Правки можно вносить от этой линии
-
-
+            put(val.addAndGet(1));
+            val.compareAndSet(3,0);
             // До этой
         });
     }
